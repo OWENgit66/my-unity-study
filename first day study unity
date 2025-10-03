@@ -1,5 +1,6 @@
 
 //First day study unity.
+//Somehow, the player spirit keep jumpping up and down. Maybe I can fix it next time.
 
 using UnityEngine;
 
